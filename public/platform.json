@@ -1,0 +1,68 @@
+[
+    {
+      "id": "dt-101",
+      "name": "SEO Pulse Checker",
+      "description": "Real-time tracking for your website ranking and keyword performance.",
+      "price": 29,
+      "period": "monthly",
+      "tag": "Most Popular",
+      "tagType": "popular",
+      "features": ["Daily Keyword Tracking", "Competitor Analysis", "Backlink Monitor", "Weekly PDF Reports"],
+      "icon": "trending-up"
+    },
+    {
+      "id": "dt-102",
+      "name": "Cloud Assets Pack",
+      "description": "A massive library of 5,000+ high-res icons and UI elements.",
+      "price": 89,
+      "period": "one-time",
+      "tag": "Best Seller",
+      "tagType": "best seller",
+      "features": ["SVG & PNG Formats", "Commercial License", "Lifetime Updates", "Figma Integration"],
+      "icon": "cloud-download"
+    },
+    {
+      "id": "dt-103",
+      "name": "Social Automator",
+      "description": "Schedule and automate your posts across all major social platforms.",
+      "price": 15,
+      "period": "monthly",
+      "tag": "New Release",
+      "tagType": "new",
+      "features": ["Unlimited Scheduling", "AI Caption Generator", "Engagement Analytics", "Multi-Account Sync"],
+      "icon": "share-social"
+    },
+    {
+      "id": "dt-104",
+      "name": "Developer Pro Bundle",
+      "description": "Premium access to our full suite of coding tools and API sandboxes.",
+      "price": 199,
+      "period": "yearly",
+      "tag": "Save 20%",
+      "tagType": "best seller",
+      "features": ["Full API Access", "Beta Feature Access", "Priority Dev Support", "Private GitHub Repo"],
+      "icon": "code-slash"
+    },
+    {
+      "id": "dt-105",
+      "name": "Logo Forge AI",
+      "description": "Generate professional, scalable logos in seconds using neural networks.",
+      "price": 45,
+      "period": "one-time",
+      "tag": "Trending",
+      "tagType": "popular",
+      "features": ["100+ AI Iterations", "Vector Export (EPS/SVG)", "Brand Guidelines PDF", "Full Copyright"],
+      "icon": "color-palette"
+    },
+    {
+      "id": "dt-106",
+      "name": "Email Campaigner",
+      "description": "Clean, simple, and effective email marketing with high deliverability.",
+      "price": 12,
+      "period": "monthly",
+      "tag": "Budget Friendly",
+      "tagType": "new",
+      "features": ["5,000 Subscribers", "Drag-and-Drop Builder", "A/B Testing", "Automated Workflows"],
+      "icon": "mail-open"
+    }
+  ]
