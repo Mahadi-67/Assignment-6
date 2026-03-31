@@ -27,7 +27,7 @@ const NavBar = () => {
         </div>
         <div className="navbar-end gap-5">
           <a className="">🛒 Login</a>
-          <button class="btn btn-primary rounded-full">Get Started</button>
+          <button className="btn btn-primary rounded-full">Get Started</button>
         </div>
       </div>
     );
