@@ -7,6 +7,7 @@ import StatsSection from "./statsSection";
 import StepsSection from "./steps";
 import Pricing from './pricing';
 import CTASection from './action';
+import { toast } from 'react-toastify';
 
 const getModels = async () => {
   const res = await fetch("/models.json");
@@ -27,9 +28,11 @@ function App() {
 
     if (!exists) {
       setCart([...cart, model]);
-      alert("Added to Cart"); 
+      // alert("Added to Cart"); 
+      toast.success("Added to cart!");
     } else {
-      alert("Already in Cart"); 
+      // alert("Already in Cart"); 
+      toast.error("Already in cart!");
     }
   };
 
@@ -114,11 +117,13 @@ function App() {
                 <button 
                   onClick={() => {
                     if (cart.length === 0) {
-                      alert("Cart is empty");  
+                      // alert("Cart is empty");  
+                      toast.error("Cart is empty!");
                       return;
                     }
 
-                    alert("Order Placed Successfully"); 
+                    // alert("Order Placed Successfully"); 
+                    toast.success("Payment is done!");
                     setCart([]); 
                   }}
                   className="btn btn-primary mt-6 w-full rounded-full bg-indigo-600 border-none h-14 text-white text-lg"

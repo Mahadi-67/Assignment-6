@@ -8,7 +8,7 @@
       "tag": "Most Popular",
       "tagType": "popular",
       "features": ["Daily Keyword Tracking", "Competitor Analysis", "Backlink Monitor", "Weekly PDF Reports"],
-      "icon": "/public/products/design-tool.png"  
+      "icon": "/products/design-tool.png"  
     },
     {
       "id": "dt-102",
@@ -19,7 +19,7 @@
       "tag": "Best Seller",
       "tagType": "best seller",
       "features": ["SVG & PNG Formats", "Commercial License", "Lifetime Updates", "Figma Integration"],
-      "icon": "/public/products/operation.png"
+      "icon": "/products/operation.png"
     },
     {
       "id": "dt-103",
@@ -30,7 +30,7 @@
       "tag": "New Release",
       "tagType": "new",
       "features": ["Unlimited Scheduling", "AI Caption Generator", "Engagement Analytics", "Multi-Account Sync"],
-      "icon": "/public/products/portfolio.png"
+      "icon": "/products/portfolio.png"
     },
     {
       "id": "dt-104",
@@ -41,7 +41,7 @@
       "tag": "Save 20%",
       "tagType": "best seller",
       "features": ["Full API Access", "Beta Feature Access", "Priority Dev Support", "Private GitHub Repo"],
-      "icon": "/public/products/shopping-cart.png"
+      "icon": "/products/shopping-cart.png"
     },
     {
       "id": "dt-105",
@@ -52,7 +52,7 @@
       "tag": "Trending",
       "tagType": "popular",
       "features": ["100+ AI Iterations", "Vector Export (EPS/SVG)", "Brand Guidelines PDF", "Full Copyright"],
-      "icon": "/public/products/social-media.png"
+      "icon": "/products/social-media.png"
     },
     {
       "id": "dt-106",
@@ -63,6 +63,6 @@
       "tag": "Budget Friendly",
       "tagType": "new",
       "features": ["5,000 Subscribers", "Drag-and-Drop Builder", "A/B Testing", "Automated Workflows"],
-      "icon": "/public/products/writing_2327400 1.png"
+      "icon": "/products/writing_2327400 1.png"
     }
   ]
