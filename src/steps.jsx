@@ -41,7 +41,7 @@ const StepsSection = () => {
                 
                 {/* Header Section */}
                 <div className="text-center mb-20">
-                    <h2 className="text-6xl font-[900] text-gray-900 mb-6">
+                    <h2 className="text-6xl font-[900px] text-gray-900 mb-6">
                         Get Started In 3 Steps
                     </h2>
                     <p className="text-gray-500 text-xl">
@@ -68,7 +68,7 @@ const StepsSection = () => {
                                 </div>
 
                                 {/* Text Content */}
-                                <h3 className="text-3xl font-[800] text-gray-900 mb-4">
+                                <h3 className="text-3xl font-[800px] text-gray-900 mb-4">
                                     {step.title}
                                 </h3>
                                 <p className="text-gray-500 text-lg leading-relaxed">

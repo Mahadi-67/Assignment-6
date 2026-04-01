@@ -67,7 +67,7 @@ function App() {
         </button>
       </div>
 
-      <div className="mt-20 min-h-[400px]">
+      <div className="mt-20 min-h-[400]">
         {activeTab === 'products' ? (
           <Models 
             modelPromise={modelPromise} 
